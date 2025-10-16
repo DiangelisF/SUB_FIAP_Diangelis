@@ -9,7 +9,7 @@ Algoritmo:LSTM (Long Short-Term Memory)
 
 Previsão:	Preço de Abertura da ação no dia seguinte. 
 
-Janela de Observação: Os últimos 90 dias de preços de fechamento.
+Janela de Observação: Os últimos 90 dias de preços de abertura.
 
 Componentes Chave:
 Modelo Treinado (Artefato):
